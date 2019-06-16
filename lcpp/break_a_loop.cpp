@@ -1,5 +1,5 @@
 #include <iostream> 
-//Intro:
+//Intro: This program is an example of for loop
 int main()
 {
  //Take inputs
